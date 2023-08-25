@@ -1,1 +1,1 @@
-All exercise of CodeWars will be here!
+# All exercises of CodeWars will be here!
